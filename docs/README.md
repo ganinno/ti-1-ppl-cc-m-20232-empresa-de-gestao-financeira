@@ -25,7 +25,7 @@ CURSO
 # Estrutura do Documento
 
 - [Informações do Projeto](#informações-do-projeto)
-  - [Participantes](#participantes)
+  - [Participantes](#Alunos-integrantes-da-equipe)
 - [Estrutura do Documento](#estrutura-do-documento)
 - [Introdução](#introdução)
   - [Problema](#problema)
