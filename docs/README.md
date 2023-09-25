@@ -9,11 +9,11 @@ CURSO
 
 ## Alunos integrantes da equipe
 
-    * Arthur Braga de Carvalho
-    * Eduardo Spinelli
-    * Guilherme Lima Martini
-    * Rodrigo Machado Ribeiro da Gloria
-    * Pedro Xavier
+* Arthur Braga de Carvalho
+* Eduardo Spinelli
+* Guilherme Lima Martini
+* Rodrigo Machado Ribeiro da Gloria
+* Pedro Xavier
 
 ## Professores responsáveis
 
