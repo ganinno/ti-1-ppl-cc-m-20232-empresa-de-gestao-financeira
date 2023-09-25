@@ -129,7 +129,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ## User Flow
 O fluxo de usuário foi imaginado da seguinte forma, as telas serão explicadas na seção de wireframes.
 
-![User Flow](link)
+![image](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m-20232-empresa-de-gestao-financeira/assets/120015178/d20b21f6-71a0-4efe-8f19-168f2408d5f1)
+
 
 
 ## Wireframes
