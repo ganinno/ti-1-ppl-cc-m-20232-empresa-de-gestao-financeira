@@ -99,13 +99,29 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-![](link)
+| ID   | Descrição                                                        | Prioridade |
+|------|------------------------------------------------------------------|------------|
+| RF-01| O site deve permitir o registro e o acompanhamento dos gastos   | Alta       |
+| RF-02| O site deve permitir que o usuário defina um limite dos gastos mensais | Baixa      |
+| RF-03| O site deve gerar relatórios (Como gráficos) que mostrem o panorama financeiro | Média      |
+| RF-04| O site deve mostrar uma comparação dos gastos em diferentes períodos | Média      |
+| RF-05| O site deve mostrar a rentabilidade de diferentes tipos de investimento | Alta       |
+| RF-06| O site deve permitir a configuração de diferentes perfis (Casa, pessoal, trabalho) | Baixa      |
+| RF-07| O site deve permitir que o usuário categorize suas compras      | Média      |
+
 
 
 ### Requisitos não Funcionais
 
-![](link)
-
+| ID    | Descrição                                                           | Prioridade |
+|-------|---------------------------------------------------------------------|------------|
+| RNF-01| O site deve conseguir exibir as informações de forma correta mesmo com muitas entradas de gasto | Alta       |
+| RNF-02| O site deve exibir os gráficos de maneira clara, mesmo se apresentar muitas categorias | Alta       |
+| RNF-03| O site deve ter interface intuitiva e fácil de usar                 | Média      |
+| RNF-04| O site deve apresentar configurações para os seus gráficos          | Baixa      |
+| RNF-05| O site deve ser responsivo                                          | Média      |
+| RNF-06| O site deve ter disponibilidade alta, com baixo tempo de inatividade| Baixa      |
+| RNF-07| O site deve apresentar capacidade de recuperação dos dados          | Baixa      |
 
 
 
